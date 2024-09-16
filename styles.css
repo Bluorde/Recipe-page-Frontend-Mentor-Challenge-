@@ -10,6 +10,7 @@ body{
     margin: 0px;
     background-color: #f3e5d8;
     font-size: medium;
+    line-height: 1.5;
 }
 .container {
     max-width: 600px;
