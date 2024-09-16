@@ -10,7 +10,7 @@ body{
     margin: 0px;
     background-color: #f3e5d8;
     font-size: medium;
-    line-height: 1.5;
+    line-height: 2;
 }
 .container {
     max-width: 600px;
@@ -68,7 +68,7 @@ p{
     
 }
 span {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 table {
